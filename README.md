@@ -2,4 +2,5 @@
 En este proyecto tendremos que superar un circuito de obstáculos propuesto por el profesor con la finalidad de que sea el propio robot el que supere el circuito.
 
 ## PROGRAMAS UTILIZADOS
-<img width="824" height="488" alt="Esclavo guille" src="https://github.com/user-attachments/assets/b6cf5403-30eb-4961-b0c8-a77336b04dbf" />
+<img width="442" height="308" alt="Maestro isaac" src="https://github.com/user-attachments/assets/e98f8144-f486-4d66-9dfd-9c3bea74bcb0" />
+
