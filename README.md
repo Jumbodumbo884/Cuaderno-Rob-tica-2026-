@@ -4,5 +4,6 @@ En este proyecto tendremos que superar un circuito de obstáculos propuesto por 
 ## PROGRAMA MAESTRO (ISAAC).
 <img width="442" height="308" alt="Maestro isaac" src="https://github.com/user-attachments/assets/e98f8144-f486-4d66-9dfd-9c3bea74bcb0" />
 Al iniciar el programa el maestro en este caso la placa debera enviar a su esclavo en decir a Maqueen todas la señales a través del canal de radio 2. Seguidamente cuando presiones el botón A enviará a través del canal de radio enviara el número 1, de la misma manera al pulsar el botón B enviara por el canal radio el número 2, una vez más cuándo esta vez pulsemos A+B por el canal de radio se enviara el número 3 y para finalizar si agitamos la placa a través del canal de radio se enviara el número 4. Todo esta información se hace llegar al esclavo que  procederemos a explicar a continuación.
+
 ## PROGRAMA ESCLAVO (YO).
 <img width="824" height="488" alt="Esclavo guille" src="https://github.com/user-attachments/assets/533c1b59-b63f-44a1-94b0-108d46a6c67a" />
