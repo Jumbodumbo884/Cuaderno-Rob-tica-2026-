@@ -1,3 +1,3 @@
 # CONNECTING THE WORLD
 ## Robot Maqueen
-Este proyecto consiste en superar un circuito propuesto por el profesor. El cual deberemos superar para conseguir el objetivo propuesto.
+Este proyecto consiste en superar un circuito propuesto por el profesor. Para conseguir el objetivo propuesto tendremos que superar el mismo.
