@@ -25,3 +25,6 @@ Tiempo de vuelo máx. 13 minutos (sin viento a 15 km/h [9 mph] sostenidos)
 ## ¿CÓMO TE DEBES CONECTAR AL DRON PARA PODER CONTROLARLO?
 Para poder conectarte al dron debes activar la conexión Wi-Fi en su dispositivo electrónico y seleccione la red TELLO-XXXXXX seguidamente buscar la matricula correspondiente al dron para conectarte al mismo. La conexión se
 habrá establecido cuando se muestre la vista de la cámara en directo en el dispositivo electrónico.
+
+## MANUAL BÁSICO DE PROGRAMACIÓN CON DRONEBLOCKS
+<img width="567" height="627" alt="image" src="https://github.com/user-attachments/assets/9ce54b24-9909-468a-8cc0-9c91f73bbb6a" />
