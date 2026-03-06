@@ -45,3 +45,10 @@ Después vuelve a avanzar varias veces 84,5 cm, lo que indica que otra vez está
 
 En la parte final del programa el dron realiza otro giro de 45 grados hacia la derecha, avanza 60 cm (un lado de baldosa) y finalmente ejecuta el bloque fly down 35 cm, que hace que el dron descienda 35 cm, probablemente para prepararse para el aterrizaje y finalizar el recorrido.
 
+## APLICACIONES DE LA DRÓNICA
+1. Seguridad y Emergencias:
+   La aplicación drónica de seguridad y emergencias consiste en el uso de Vehículos Aéreos No Tripulados (UAVs o drones) equipados con tecnología avanzada (cámaras de alta resolución, térmicas, sensores) para mejorar la vigilancia, agilizar la respuesta ante crisis y proteger a los equipos de primera intervención. Actúan como una herramienta de "ojo en el cielo" que proporciona información en tiempo real, permitiendo una toma de decisiones más rápida y segura.
+   
+2. Audiovisual y Marketing:  (drone marketing) consiste en el uso de aeronaves no tripuladas (drones) como herramientas estratégicas para crear contenido audiovisual, realizar publicidad aérea o ejecutar acciones de marketing experiencial. Esta disciplina combina tecnología de vanguardia con creatividad para captar la atención del consumidor de una manera innovadora, visualmente impactante y, a menudo, viral.
+
+3. Logística y Medio Ambiente:La aplicación drónica en logística y medio ambiente consiste en el uso de Vehículos Aéreos No Tripulados (VANT o UAVs) para optimizar la cadena de suministro, gestionar inventarios y realizar tareas de monitoreo, conservación y protección ambiental de manera eficiente y sostenible. Esta tecnología utiliza cámaras, sensores y GPS para recopilar datos o transportar cargas ligeras, reduciendo costos y emisiones de CO2. 
