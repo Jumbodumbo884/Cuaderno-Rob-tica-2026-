@@ -51,7 +51,7 @@ En la parte final del programa el dron realiza otro giro de 45 grados hacia la d
    <img width="267" height="189" alt="image" src="https://github.com/user-attachments/assets/958e429f-fbac-4d7f-81a4-f575b1733474" />
 
 2. Audiovisual y Marketing:  (drone marketing) consiste en el uso de aeronaves no tripuladas (drones) como herramientas estratégicas para crear contenido audiovisual, realizar publicidad aérea o ejecutar acciones de marketing experiencial. Esta disciplina combina tecnología de vanguardia con creatividad para captar la atención del consumidor de una manera innovadora, visualmente impactante y, a menudo, viral.
-<img width="2560" height="1709" alt="image" src="https://github.com/user-attachments/assets/8f94e088-501e-4fda-a130-531f1781961c" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/71652b80-30ff-4fe2-b662-234cafac9d87" />
 
 3. Logística y Medio Ambiente:La aplicación drónica en logística y medio ambiente consiste en el uso de Vehículos Aéreos No Tripulados (VANT o UAVs) para optimizar la cadena de suministro, gestionar inventarios y realizar tareas de monitoreo, conservación y protección ambiental de manera eficiente y sostenible. Esta tecnología utiliza cámaras, sensores y GPS para recopilar datos o transportar cargas ligeras, reduciendo costos y emisiones de CO2. 
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/a80be172-ab45-46dd-81a5-b5bd96d774a8" />
