@@ -22,6 +22,6 @@ Dron TELLO: Peso (incluidos los protectores para las hélices): 87 g
 Velocidad máxima: 28,8 km/h (17,8 mph)
 Tiempo de vuelo máx. 13 minutos (sin viento a 15 km/h [9 mph] sostenidos)
 
-¿CÓMO TE DEBES CONECTAR AL DRON PARA PODER CONTROLARLO?
+## ¿CÓMO TE DEBES CONECTAR AL DRON PARA PODER CONTROLARLO?
 Para poder conectarte al dron debes activar la conexión Wi-Fi en su dispositivo electrónico y seleccione la red TELLO-XXXXXX seguidamente buscar la matricula correspondiente al dron para conectarte al mismo. La conexión se
 habrá establecido cuando se muestre la vista de la cámara en directo en el dispositivo electrónico.
