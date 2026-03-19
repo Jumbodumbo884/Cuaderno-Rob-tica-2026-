@@ -60,4 +60,4 @@ En la parte final del programa el dron realiza otro giro de 45 grados hacia la d
 <img width="567" height="627" alt="image" src="https://github.com/user-attachments/assets/9ce54b24-9909-468a-8cc0-9c91f73bbb6a" />
 Foto de Guillermo Cuesta Luque 3ºA
 
-Este mismo programa desde mi punto de vista creo que podría llegar a funcionar pero sin embargo habría que ponerlo en practica para poder determinar si el programa realizado es el correcto o si es necesario modificarlo.
+Este mismo programa desde mi punto de vista creo que podría llegar a funcionar y no habría que hacerle ningún cambio pero sin embargo habría que ponerlo en practica para poder determinar si el programa realizado es el correcto o si es necesario modificarlo. Por ello es necesario saberlo a ciencia cierta.
