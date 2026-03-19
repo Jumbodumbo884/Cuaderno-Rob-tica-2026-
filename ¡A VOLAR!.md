@@ -55,3 +55,8 @@ En la parte final del programa el dron realiza otro giro de 45 grados hacia la d
 
 3. Logística y Medio Ambiente:La aplicación drónica en logística y medio ambiente consiste en el uso de Vehículos Aéreos No Tripulados (VANT o UAVs) para optimizar la cadena de suministro, gestionar inventarios y realizar tareas de monitoreo, conservación y protección ambiental de manera eficiente y sostenible. Esta tecnología utiliza cámaras, sensores y GPS para recopilar datos o transportar cargas ligeras, reduciendo costos y emisiones de CO2. 
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/a80be172-ab45-46dd-81a5-b5bd96d774a8" />
+
+## PROGRAMA QUE PUEDE LLEGAR A SERVIR PARA EL PROYECTO
+<img width="567" height="627" alt="image" src="https://github.com/user-attachments/assets/9ce54b24-9909-468a-8cc0-9c91f73bbb6a" />
+Foto de Guillermo Cuesta Luque 3ºA
+Este mismo programa desde mi punto de vista creo que podría llegar a funcionar pero sin embargo habría que ponerlo en practica para poder determinar si el programa realizado es el correcto o si es necesario modificarlo.
